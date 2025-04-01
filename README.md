@@ -15,3 +15,9 @@ This is a cloud-native AI platform that collects user comments from social platf
 
 这是一个基于云平台的人工智能情绪分析平台，自动采集 Reddit 用户评论，通过轻量级大语言模型（如 DistilBERT）进行情感分类，并以可视化面板方式展示公众情绪趋势。
 
+### version1: 
+1. 二分类情绪分析模型
+
+### version2:
+1.更换三分类模型
+
